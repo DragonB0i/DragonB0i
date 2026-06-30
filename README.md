@@ -1,397 +1,212 @@
-<!-- ========================================= -->
-<!--              ANIMATED HEADER              -->
-<!-- ========================================= -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=200&section=header&text=Yagneswar%20B&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&lines=Software+Engineer;Cybersecurity+Specialist;Backend+%26+Full+Stack+Developer;Product+Engineering+Mindset" alt="Typing SVG Animation" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Education-Computer_Science-9D4EDD?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Academic Badge" />
+  <img src="https://img.shields.io/badge/Location-Chennai,_India-7b2cbf?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge" />
+</div>
+<br>
+<div align="center">
+  <a href="https://dragonb0i.github.io/port-str/"><img src="https://img.shields.io/badge/Portfolio-10002b?style=for-the-badge&logo=dev.to&logoColor=9D4EDD&border=7b2cbf" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/yagneswar-b-278944295/"><img src="https://img.shields.io/badge/LinkedIn-10002b?style=for-the-badge&logo=linkedin&logoColor=9D4EDD" alt="LinkedIn" /></a>
+  <a href="mailto:bhavanamyagneswar@gmail.com"><img src="https://img.shields.io/badge/Email-10002b?style=for-the-badge&logo=gmail&logoColor=9D4EDD" alt="Email" /></a>
+  <a href="https://github.com/DragonB0i"><img src="https://img.shields.io/badge/GitHub-10002b?style=for-the-badge&logo=github&logoColor=9D4EDD" alt="GitHub" /></a>
+</div>
+<br>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=DragonB0i&color=7b2cbf&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/DragonB0i?color=9D4EDD&style=for-the-badge&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/DragonB0i?color=3c096c&style=for-the-badge&label=Total+Stars" alt="Stars" />
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+Engineering secure, scalable, and high-performance systems. My approach combines robust backend architecture with rigorous cybersecurity methodologies to build enterprise-grade applications. I specialize in full-stack development with a strong focus on backend frameworks and automated security tooling.
+
+* **Software Engineering:** Architecting scalable backend solutions utilizing Java and Spring Boot, transitioning seamlessly between relational and NoSQL database infrastructures.
+* **Cybersecurity & Reconnaissance:** Developing specialized local-first vulnerability scanners and utilizing penetration testing tools (Kali Linux, Metasploit, Nmap, Shodan) for advanced network simulation and threat assessment.
+* **AI/ML Integration:** Enhancing security tools with AI-driven consultancy layers and logic parsers.
+* **Product Engineering Mindset:** Focused on end-to-end development, from deep crawling logic and automated reconnaissance to modular, maintainable code architectures.
+* **Open To:** Collaborations on advanced networking projects, competitive programming challenges, and open-source cybersecurity tooling.
+
+---
+
+## 🛠 Tech Stack
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,35:7C3AED,70:8B5CF6,100:312E81&text=Yagneswar%20B&fontSize=52&fontAlignY=40&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20Backend%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60"/>
+### Languages
+<img src="https://skillicons.dev/icons?i=java,js,py,html,css" alt="Languages" />
 
-<br>
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" alt="Frontend" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=900&color=8B5CF6&center=true&vCenter=true&width=950&lines=Software+Engineering+Student;Backend+Developer+%7C+Java+%7C+Spring+Boot;Full+Stack+Developer;AI+Powered+Product+Builder;Cybersecurity+Enthusiast;Always+Learning.+Always+Building."/>
+### Backend & Databases
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,mysql,mongodb" alt="Backend & DBs" />
 
-<br><br>
-
-![](https://img.shields.io/badge/B.Tech-CSE-4F46E5?style=for-the-badge)
-![](https://img.shields.io/badge/Software-Engineering-7C3AED?style=for-the-badge)
-![](https://img.shields.io/badge/Product-Mindset-8B5CF6?style=for-the-badge)
-![](https://img.shields.io/badge/Open%20Source-Contributor-6366F1?style=for-the-badge)
-![](https://img.shields.io/badge/India-Developer-4338CA?style=for-the-badge)
-
-<br>
-
-<a href="https://dragonb0i.github.io/port-str/">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/yagneswar-b-278944295/">
-<img src="https://img.shields.io/badge/LinkedIn-312E81?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:bhavanamyagneswar@gmail.com">
-<img src="https://img.shields.io/badge/Email-4F46E5?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/DragonB0i">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<br><br>
-
-![](https://komarev.com/ghpvc/?username=DragonB0i&style=for-the-badge&color=7C3AED)
-
-![](https://img.shields.io/github/followers/DragonB0i?style=for-the-badge&color=7C3AED)
-
-![](https://img.shields.io/github/stars/DragonB0i?affiliations=OWNER&style=for-the-badge&color=8B5CF6)
+### Cloud, DevOps & Tooling
+<img src="https://skillicons.dev/icons?i=linux,git,github,docker,postman,maven,gradle" alt="DevOps Tooling" />
 
 </div>
 
 ---
 
-# About Me
-
-I am a **Software Engineering student** passionate about building scalable, secure, and production-ready software systems with a strong focus on **Backend Engineering**, **Full Stack Development**, and **AI-powered products**.
-
-My engineering philosophy revolves around writing maintainable code, designing reliable architectures, solving real-world problems, and continuously improving system performance through clean engineering practices.
-
-Rather than simply developing applications, I enjoy building products that emphasize scalability, security, maintainability, and exceptional user experience. My long-term goal is to become a software engineer capable of designing enterprise-grade distributed systems while contributing meaningfully to open source and modern product development.
-
-### Open To
-
-- Backend Software Engineering
-- Full Stack Development
-- Java & Spring Boot Development
-- AI-powered Applications
-- Open Source Collaboration
-- Product Engineering
-- Software Engineering Internships
-
----
-
-# Tech Stack
-
-## Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp,html,css"/>
-
-</p>
-
-## Frontend
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite"/>
-
-</p>
-
-## Backend & Databases
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,mysql,mongodb,postgres,firebase"/>
-
-</p>
-
-## Cloud • DevOps • Tooling
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode,idea,figma"/>
-
-</p>
-
----
-
-# AI / ML Expertise
+## 🧠 AI / ML Expertise
 
 | Domain | Proficiency | Details |
-|----------|------------|----------|
-| AI Assisted Development | Advanced | LLM integration, workflow automation, AI productivity tools |
-| Prompt Engineering | Advanced | Structured prompting, workflow optimization |
-| Machine Learning | Intermediate | Model understanding, experimentation, preprocessing |
-| Deep Learning | Intermediate | Neural network fundamentals |
-| Computer Vision | Intermediate | Image processing and AI-assisted vision projects |
-| Natural Language Processing | Intermediate | LLM applications and conversational AI |
-| AI Product Engineering | Advanced | Building practical AI-powered software solutions |
-| AI Automation | Advanced | Intelligent workflows and developer productivity tools |
+| :--- | :--- | :--- |
+| **Security AI Consulting** | Advanced | Designing AI consultancy layers for vulnerability triage and remediation within automated scanning tools. |
+| **Automated Workflows** | Intermediate | Integrating AI-driven content generation workflows for platform-specific media distribution. |
+| **Logic Parsing** | Intermediate | Leveraging machine learning models for reverse-engineered logic detection in source code. |
 
 ---
 
-# Featured Projects
+## 🚀 Featured Projects
 
 <details>
-<summary><b>Password Cracker Suite</b></summary>
+<summary><b>🛡️ GuardScanner V3</b></summary>
+<br>
 
-### Enterprise-style cybersecurity toolkit featuring multiple password recovery techniques with modular architecture.
+A modular, local-first web vulnerability scanner featuring deep crawling, network reconnaissance, and AI-assisted security analysis. Designed as an enterprise-grade security tool emphasizing reverse-engineered logic and robust local execution.
 
-| Category | Details |
-|-----------|----------|
-| Stack | Python • Tkinter • Security Tools |
-| Scale | Modular Multi-Component Architecture |
-| Performance | Optimized password recovery workflows |
-| Security | NTLM • Rainbow Tables • Wordlists |
-| Impact | Educational cybersecurity research |
-| Repository | https://github.com/DragonB0i |
+| Stack | Scale | Performance | Security | Impact | Repository |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Spring Boot, Java, AI Layer | Modular Engine | Multi-threaded Recon | Defensive Local-First | Automated Vulnerability Triage | [View Project](https://github.com/DragonB0i) |
 
-The project demonstrates practical implementation of password recovery concepts including rainbow tables, dictionary attacks, NTLM cracking, GUI integration, and modular architecture while maintaining clean software engineering practices.
+**Professional Explanation:**
+Engineered the transition of a vulnerability scanner from a basic script to a professional architectural standard. Implemented complex routing for reconnaissance modules (leveraging Nmap and Shodan API methodologies) and integrated an AI consultant layer to interpret detection results. Designed the system for localized execution to ensure operational privacy and rapid deployment in testing environments.
 
 </details>
 
 <details>
-<summary><b>Career Copilot AI</b></summary>
+<summary><b>🛒 Order-Mate</b></summary>
+<br>
 
-### AI-powered placement assistant focused on improving student productivity.
+A comprehensive full-stack e-commerce platform built to demonstrate advanced data modeling, secure user authentication, and seamless transaction processing.
 
-| Category | Details |
-|-----------|----------|
-| Stack | AI • Python • APIs |
-| Scale | Intelligent Assistant |
-| Performance | Automated workflows |
-| Security | Secure API integrations |
-| Impact | Placement automation |
-| Repository | https://github.com/DragonB0i |
+| Stack | Scale | Performance | Security | Impact | Repository |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Spring Boot, MongoDB, React | Full-Stack Platform | Optimized DB Queries | Secure Authentication | Scalable Product Management | [View Project](https://github.com/DragonB0i) |
 
-Designed to streamline placement preparation through intelligent automation, personalized workflows, and AI-assisted decision making.
-
-</details>
-
-<details>
-<summary><b>MotionBlade</b></summary>
-
-### Mobile-powered motion controller enabling interactive desktop gaming experiences.
-
-| Category | Details |
-|-----------|----------|
-| Stack | Android • Kotlin • Java |
-| Scale | Cross-device Architecture |
-| Performance | Low-latency communication |
-| Security | Secure device communication |
-| Impact | Innovative gaming interaction |
-| Repository | https://github.com/DragonB0i |
-
-A modern engineering project combining mobile sensors with desktop interaction to create immersive gameplay through real-time motion tracking.
-
-</details>
-
-<details>
-<summary><b>Backend Engineering Portfolio</b></summary>
-
-### Collection of scalable backend projects built using modern software engineering principles.
-
-| Category | Details |
-|-----------|----------|
-| Stack | Java • Spring Boot • SQL |
-| Scale | RESTful Backend Services |
-| Performance | Optimized APIs |
-| Security | Authentication & Authorization |
-| Impact | Production-ready architecture |
-| Repository | https://github.com/DragonB0i |
-
-Focused on enterprise backend development including REST APIs, authentication, database optimization, scalable architecture, and clean layered design.
+**Professional Explanation:**
+Designed and developed a robust backend architecture using Spring Boot controllers and MongoDB repositories. Handled complex entity relationships for product catalogs and user sessions, including localized data seeding pipelines for high-resolution image assets. Ensured strict separation of concerns between models, controllers, and database access layers.
 
 </details>
 
 ---
 
-# Experience
+## 💼 Experience
 
-## Software Engineering Intern
+### Cybersecurity Intern — Supraja Technologies
+**Date Range:** May 2025 - June 2025
 
-### Supraja Technologies
+**Professional Description:**
+Immersed in an intensive environment focusing on enterprise cybersecurity methodologies, network defense strategies, and vulnerability assessment. Acquired practical, hands-on experience in identifying and mitigating modern threat vectors.
 
-**May 2025 — June 2025**
+**Scope of Work:**
+* Executed fundamental penetration testing and reconnaissance protocols.
+* Analyzed network traffic and routing architectures (NAT, DHCP, Subnetting).
+* Deployed security tooling and analyzed sandbox server vulnerabilities.
 
-Learned cybersecurity fundamentals while gaining practical exposure to industry-oriented security concepts and secure software development practices.
-
-### Scope of Work
-
-- Learned cybersecurity fundamentals
-- Worked with secure development concepts
-- Understood vulnerability assessment basics
-- Hands-on exposure to security tools
-- Improved analytical problem-solving skills
-- Collaborated within technical teams
-
-### Skills
-
-`Cybersecurity`
-`Networking`
-`Python`
-`Security Fundamentals`
-`Problem Solving`
-`Software Engineering`
+**Skills:** `Cybersecurity` `Network Analysis` `Kali Linux` `Vulnerability Assessment`
 
 ---
 
-# Achievements
+## 🏆 Achievements
 
 <div align="center">
 
 | Recognition | Details |
-|--------------|----------|
-| Product Builder | Developed multiple engineering-focused software projects |
-| Backend Developer | Building scalable Java & Spring Boot applications |
-| AI Enthusiast | Developing AI-powered productivity tools |
-| Cybersecurity Learner | Practical internship experience |
-| Open Source | Actively publishing engineering projects |
+| :--- | :--- |
+| **Automata Theory Excellence** | Advanced comprehension of Deterministic Finite Automata (DFA) state optimization and Turing machine logic. |
+| **Competitive Programming** | Consistent active problem-solving and algorithmic optimization on major competitive platforms. |
+| **Advanced Networking** | Proficient configuration of complex subnetting and routing protocols using Cisco Packet Tracer simulations. |
 
 </div>
 
 ---
 
-# Certifications
+## 📜 Certifications
 
 <div align="center">
-
-![](https://img.shields.io/badge/Cybersecurity-Completed-4F46E5?style=for-the-badge)
-
-![](https://img.shields.io/badge/Java-Developer-7C3AED?style=for-the-badge)
-
-![](https://img.shields.io/badge/Software-Engineering-8B5CF6?style=for-the-badge)
-
-![](https://img.shields.io/badge/Backend-Development-4338CA?style=for-the-badge)
-
+  <img src="https://img.shields.io/badge/Cybersecurity_Fundamentals-Certified-7b2cbf?style=for-the-badge&logo=security&logoColor=white" alt="Cybersecurity Cert" />
+  <img src="https://img.shields.io/badge/Java_Spring_Boot-Certified-9D4EDD?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot Cert" />
+  <img src="https://img.shields.io/badge/Network_Engineering-Certified-3c096c?style=for-the-badge&logo=cisco&logoColor=white" alt="Network Cert" />
 </div>
 
 ---
 
-# Coding Profiles
+## 💻 Coding Profiles
 
 <div align="center">
+  <a href="https://leetcode.com/u/Yagneswar_121/">
+    <img src="https://img.shields.io/badge/-LeetCode-10002b?style=for-the-badge&logo=leetcode&logoColor=9D4EDD&border=7b2cbf" alt="LeetCode" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/bhavanamyagnesw1">
+    <img src="https://img.shields.io/badge/-HackerRank-10002b?style=for-the-badge&logo=hackerrank&logoColor=9D4EDD&border=7b2cbf" alt="HackerRank" />
+  </a>
+</div>
 
-<a href="https://leetcode.com/u/Yagneswar_121/">
+---
 
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+## 📊 GitHub Analytics
 
-</a>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DragonB0i&show_icons=true&bg_color=0D1117&title_color=9D4EDD&text_color=A9B1D6&icon_color=7B2CBF&border_color=3C096C&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DragonB0i&background=0D1117&ring=7B2CBF&fire=9D4EDD&currStreakNum=A9B1D6&sideNums=A9B1D6&currStreakLabel=9D4EDD&sideLabels=9D4EDD&dates=7B2CBF&hide_border=true" alt="GitHub Streak" width="48%" />
+</div>
 <br>
-
-<a href="https://www.hackerrank.com/profile/bhavanamyagnesw1">
-
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-
-</a>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DragonB0i&layout=compact&bg_color=0D1117&title_color=9D4EDD&text_color=A9B1D6&hide_border=true" alt="Top Languages" width="60%" />
 </div>
 
 ---
 
-# GitHub Analytics
+## 🏆 GitHub Trophies
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=DragonB0i&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=DragonB0i&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DragonB0i&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=DragonB0i&theme=tokyonight&no-bg=true&no-frame=true&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
 
-# GitHub Trophies
+## 📈 Contribution Activity
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DragonB0i&theme=algolia&no-frame=true&row=2&column=4"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DragonB0i&bg_color=0D1117&color=9D4EDD&line=7B2CBF&point=3C096C&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 </div>
 
 ---
 
-# Contribution Activity
+## 🐍 Contribution Snake
 
 <div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DragonB0i&theme=react-dark&hide_border=true"/>
-
+  <img src="https://raw.githubusercontent.com/DragonB0i/DragonB0i/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
 </div>
 
 ---
 
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/DragonB0i/DragonB0i/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# Current Focus
+## 🎯 Current Focus
 
 ```yaml
-Learning:
-  - Advanced Java
-  - Spring Boot
-  - Distributed Systems
-  - System Design
-  - Cloud Engineering
-
-Building:
-  - Enterprise Backend Applications
-  - AI Powered Developer Tools
-  - Open Source Projects
-  - Full Stack Products
-
-Exploring:
-  - Machine Learning
-  - Large Language Models
-  - Cloud Native Development
-  - DevOps
-  - Software Architecture
-
-Open_To:
-  - Software Engineering
-  - Backend Development
-  - AI Engineering
-  - Open Source Collaboration
-  - Internship Opportunities
-```
-
----
-
-# Connect
-
-<div align="center">
-
-### Let's build something impactful together.
-
-<a href="mailto:bhavanamyagneswar@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-4F46E5?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://www.linkedin.com/in/yagneswar-b-278944295/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-312E81?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/DragonB0i">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://dragonb0i.github.io/port-str/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-*"Engineering scalable software isn't just about writing code — it's about building systems that create lasting impact."*
-
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:312E81,40:4F46E5,70:7C3AED,100:8B5CF6"/>
-
-</div>
+Current_Focus:
+  Learning: 
+    - Advanced Penetration Testing
+    - Microservices Architecture
+    - Formal Language Computability
+  Building: 
+    - GuardScanner V3 AI Consulting Layer
+    - Enterprise E-commerce APIs
+  Exploring: 
+    - Automated Deep Crawling Optimization
+    - Local-first LLM Execution
+  Open_To: 
+    - Backend Engineering Roles
+    - Cybersecurity Research Collaboration
