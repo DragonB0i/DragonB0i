@@ -106,63 +106,81 @@ Rather than simply developing applications, I enjoy building products that empha
 # Featured Projects
 
 <details>
-<summary><b>Enterprise Authentication & User Management API</b></summary>
+<summary><b>E-Commerce Backend</b></summary>
 
-### Production-ready backend service built with Spring Boot implementing secure authentication, authorization, and scalable RESTful APIs following enterprise architecture principles.
+### Enterprise-grade e-commerce backend built using Spring Boot following layered architecture and RESTful API design principles.
 
 | Category | Details |
 |-----------|----------|
-| Stack | Java • Spring Boot • Spring Security • JWT • MySQL |
-| Scale | Multi-layer Enterprise Architecture |
-| Performance | Optimized REST APIs with efficient database access |
-| Security | JWT Authentication • Role-Based Authorization • Password Encryption |
-| Impact | Demonstrates real-world backend engineering practices |
-| Repository | Coming Soon |
+| Stack | Java • Spring Boot • Spring Data JPA • MySQL • Maven |
+| Scale | Multi-module Backend Application |
+| Performance | Optimized CRUD operations with efficient database access |
+| Security | Validation • Exception Handling • Clean API Design |
+| Impact | Demonstrates enterprise backend development practices |
+| Repository | [https://github.com/DragonB0i](https://github.com/DragonB0i/Ecommerce) |
 
-Built using Controller-Service-Repository architecture with secure authentication, role management, exception handling, validation, and clean API design. Focused on writing maintainable, production-quality backend code that follows industry standards.
+Designed with a Controller-Service-Repository architecture, the application provides REST APIs for product management, customer management, order processing, and inventory operations. The project emphasizes clean code, scalability, maintainability, and production-oriented backend engineering.
 
 </details>
 
 <details>
-<summary><b>Inventory Management REST API</b></summary>
+<summary><b>Library Management REST API</b></summary>
 
-### Backend application for managing products, inventory, and business operations using scalable RESTful architecture.
+### Backend REST API for managing books, members, borrowing records, and library operations using modern Java backend technologies.
 
 | Category | Details |
 |-----------|----------|
 | Stack | Java • Spring Boot • JPA • Hibernate • MySQL |
-| Scale | Business Management Backend |
-| Performance | Optimized CRUD operations and database queries |
-| Security | Input Validation • Exception Handling |
-| Impact | Demonstrates database-driven backend development |
-| Repository | Coming Soon |
+| Scale | RESTful Backend Service |
+| Performance | Optimized relational database operations |
+| Security | Validation • Exception Handling |
+| Impact | Demonstrates database-centric backend development |
+| Repository | [https://github.com/DragonB0i](https://github.com/DragonB0i/Library_api) |
 
-Designed using layered architecture with reusable service components, DTOs, repository abstraction, pagination, filtering, and relational database management while following clean coding practices.
+Built using layered architecture with reusable service components, repository abstraction, DTO-based communication, and efficient CRUD operations. The project showcases clean API design, relational database modeling, and scalable backend development.
 
 </details>
 
 <details>
-<summary><b>Task Management Backend</b></summary>
+<summary><b>Custom Linux Kernel & Operating System</b></summary>
 
-### RESTful backend powering a collaborative task management platform with authentication and project organization.
+### Personal operating system project focused on understanding low-level system programming, operating system architecture, and kernel development.
 
 | Category | Details |
 |-----------|----------|
-| Stack | Java • Spring Boot • MySQL • JWT • Maven |
-| Scale | Multi-user Project Management System |
-| Performance | Lightweight REST APIs with modular services |
-| Security | JWT Authentication • Role-Based Access Control |
-| Impact | Simulates real enterprise backend workflows |
-| Repository | Coming Soon |
+| Stack | C • Assembly • Linux • QEMU |
+| Scale | Educational Operating System |
+| Performance | Lightweight kernel architecture |
+| Security | Memory and process management fundamentals |
+| Impact | Deep understanding of operating system internals |
+| Repository | [https://github.com/DragonB0i](https://github.com/DragonB0i/MyKernel) |
 
-Implements complete CRUD operations, authentication, project ownership, task assignment, validation, custom exception handling, and reusable service architecture suitable for production-ready applications.
+A long-term systems programming project exploring bootloaders, kernel initialization, memory management, interrupts, scheduling, file systems, and low-level hardware interaction. The objective is to build a minimal Linux-inspired operating system while learning core OS concepts from the ground up.
+
+</details>
+
+<details>
+<summary><b>Online Multiplayer Tic Tac Toe</b></summary>
+
+### Real-time multiplayer Tic Tac Toe game featuring client-server communication and synchronized gameplay.
+
+| Category | Details |
+|-----------|----------|
+| Stack | Java • Socket Programming • Multithreading |
+| Scale | Client-Server Application |
+| Performance | Low-latency real-time communication |
+| Security | Controlled client connections |
+| Impact | Demonstrates networking and concurrent programming |
+| Repository | [https://github.com/DragonB0i](https://github.com/DragonB0i/tic-tac-toe-backend) |
+
+Developed using Java socket programming to enable real-time multiplayer gameplay between remote players. The project focuses on networking fundamentals, concurrent programming, client-server architecture, and synchronized game state management.
 
 </details>
 
 <details>
 <summary><b>Password Cracker Suite</b></summary>
 
-### Modular cybersecurity toolkit developed for educational and research purposes, showcasing secure software engineering and attack simulation techniques.
+### Modular cybersecurity toolkit developed for educational purposes, implementing multiple password recovery techniques with a desktop GUI.
 
 | Category | Details |
 |-----------|----------|
@@ -173,79 +191,12 @@ Implements complete CRUD operations, authentication, project ownership, task ass
 | Impact | Practical cybersecurity learning platform |
 | Repository | https://github.com/DragonB0i |
 
-Developed a modular application supporting multiple password recovery techniques including wordlist attacks, rainbow tables, NTLM hash cracking, and GUI-based workflow management. The project emphasizes software modularity, maintainability, and practical cybersecurity concepts.
+Implements multiple password recovery techniques including dictionary attacks, rainbow table lookups, NTLM hash cracking, website brute-force simulation, and modular GUI integration. The project demonstrates secure software design, modular architecture, and practical cybersecurity concepts.
 
 </details>
 
 <details>
 <summary><b>Career Copilot AI</b></summary>
-
-### AI-powered career assistant designed to automate placement preparation, opportunity tracking, and intelligent workflow management.
-
-| Category | Details |
-|-----------|----------|
-| Stack | Python • AI APIs • Automation • REST Integration |
-| Scale | Intelligent Productivity Platform |
-| Performance | Automated workflow execution |
-| Security | Secure API communication |
-| Impact | Improves placement preparation efficiency |
-| Repository | Coming Soon |
-
-An AI-assisted productivity platform focused on simplifying career management through intelligent automation, personalized recommendations, and streamlined workflows for students and early-career professionals.
-
-</details>
-### AI-powered placement assistant focused on improving student productivity.
-
-| Category | Details |
-|-----------|----------|
-| Stack | AI • Python • APIs |
-| Scale | Intelligent Assistant |
-| Performance | Automated workflows |
-| Security | Secure API integrations |
-| Impact | Placement automation |
-| Repository | https://github.com/DragonB0i |
-
-Designed to streamline placement preparation through intelligent automation, personalized workflows, and AI-assisted decision making.
-
-</details>
-
-<details>
-<summary><b>MotionBlade</b></summary>
-
-### Mobile-powered motion controller enabling interactive desktop gaming experiences.
-
-| Category | Details |
-|-----------|----------|
-| Stack | Android • Kotlin • Java |
-| Scale | Cross-device Architecture |
-| Performance | Low-latency communication |
-| Security | Secure device communication |
-| Impact | Innovative gaming interaction |
-| Repository | https://github.com/DragonB0i |
-
-A modern engineering project combining mobile sensors with desktop interaction to create immersive gameplay through real-time motion tracking.
-
-</details>
-
-<details>
-<summary><b>Backend Engineering Portfolio</b></summary>
-
-### Collection of scalable backend projects built using modern software engineering principles.
-
-| Category | Details |
-|-----------|----------|
-| Stack | Java • Spring Boot • SQL |
-| Scale | RESTful Backend Services |
-| Performance | Optimized APIs |
-| Security | Authentication & Authorization |
-| Impact | Production-ready architecture |
-| Repository | https://github.com/DragonB0i |
-
-Focused on enterprise backend development including REST APIs, authentication, database optimization, scalable architecture, and clean layered design.
-
-</details>
-
----
 
 # Experience
 
@@ -269,8 +220,8 @@ Learned cybersecurity fundamentals while gaining practical exposure to industry-
 ### Skills
 
 `Cybersecurity`
-`Networking`
 `Python`
+`Backend Development`
 `Security Fundamentals`
 `Problem Solving`
 `Software Engineering`
@@ -291,23 +242,8 @@ Learned cybersecurity fundamentals while gaining practical exposure to industry-
 
 </div>
 
----
 
-# Certifications
 
-<div align="center">
-
-![](https://img.shields.io/badge/Cybersecurity-Completed-4F46E5?style=for-the-badge)
-
-![](https://img.shields.io/badge/Java-Developer-7C3AED?style=for-the-badge)
-
-![](https://img.shields.io/badge/Software-Engineering-8B5CF6?style=for-the-badge)
-
-![](https://img.shields.io/badge/Backend-Development-4338CA?style=for-the-badge)
-
-</div>
-
----
 
 # Coding Profiles
 
@@ -367,17 +303,6 @@ Learned cybersecurity fundamentals while gaining practical exposure to industry-
 
 </div>
 
----
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/DragonB0i/DragonB0i/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
 
 # Current Focus
 
