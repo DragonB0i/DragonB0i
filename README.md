@@ -1,212 +1,335 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=200&section=header&text=Yagneswar%20B&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Yagneswar%20B&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20Full%20Stack%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Backend+Engineer+%7C+Full+Stack+Developer;Building+Scalable+%26+Secure+Systems;Product+Engineering+Mindset;Open+to+Software+Engineering+Roles" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Academic](https://img.shields.io/badge/B.Tech-Computer%20Science-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Location](https://img.shields.io/badge/Location-India-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+<br/>
+
+<a href="https://dragonb0i.github.io/port-str/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/yagneswar-b-278944295/"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:bhavanamyagneswar@gmail.com"><img src="https://img.shields.io/badge/Email-4F46E5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/DragonB0i"><img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=DragonB0i&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/DragonB0i?style=for-the-badge&color=6d28d9&labelColor=1e1b2e&logo=github)
+![Stars](https://img.shields.io/github/stars/DragonB0i?style=for-the-badge&color=4f46e5&labelColor=1e1b2e&logo=github)
+
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&lines=Software+Engineer;Cybersecurity+Specialist;Backend+%26+Full+Stack+Developer;Product+Engineering+Mindset" alt="Typing SVG Animation" />
-</div>
+<br/>
+
+---
+
+## 🜸 About Me
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Education-Computer_Science-9D4EDD?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Academic Badge" />
-  <img src="https://img.shields.io/badge/Location-Chennai,_India-7b2cbf?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge" />
+<img src="https://img.shields.io/badge/-Backend%20Engineering-1e1b2e?style=flat-square&color=7C3AED"/>
+<img src="https://img.shields.io/badge/-Full%20Stack%20Development-1e1b2e?style=flat-square&color=6366F1"/>
+<img src="https://img.shields.io/badge/-Product%20Engineering-1e1b2e?style=flat-square&color=4F46E5"/>
 </div>
-<br>
+
+<br/>
+
+I'm a backend-focused software engineer with a strong grounding in full stack development and a product engineering mindset — I care about how systems are architected, how they scale, and how they ultimately serve real users. My core strength lies in designing clean, reliable APIs and services, working through data modeling and system design tradeoffs, and shipping code that holds up under real-world load.
+
+While backend engineering is where I spend most of my energy — building robust services, optimizing databases, and thinking deeply about scalability and security — I'm equally comfortable across the stack, connecting performant backends to thoughtful, functional frontends. I approach engineering less like a list of tickets and more like product-building: understanding the "why" behind a feature before writing the "how."
+
+I'm currently deepening my expertise in AI/ML systems, distributed backend architecture, and cloud-native development, with the long-term goal of building intelligent, production-grade software at scale.
+
+<table align="center">
+<tr>
+<td>
+
+**🜸 Open To**
+- Software Engineering (Backend / Full Stack) roles
+- AI/ML Engineering opportunities
+- Open source collaboration
+- Internships & full-time positions
+- Technical mentorship exchanges
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🜸 Tech Stack
+
 <div align="center">
-  <a href="https://dragonb0i.github.io/port-str/"><img src="https://img.shields.io/badge/Portfolio-10002b?style=for-the-badge&logo=dev.to&logoColor=9D4EDD&border=7b2cbf" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/yagneswar-b-278944295/"><img src="https://img.shields.io/badge/LinkedIn-10002b?style=for-the-badge&logo=linkedin&logoColor=9D4EDD" alt="LinkedIn" /></a>
-  <a href="mailto:bhavanamyagneswar@gmail.com"><img src="https://img.shields.io/badge/Email-10002b?style=for-the-badge&logo=gmail&logoColor=9D4EDD" alt="Email" /></a>
-  <a href="https://github.com/DragonB0i"><img src="https://img.shields.io/badge/GitHub-10002b?style=for-the-badge&logo=github&logoColor=9D4EDD" alt="GitHub" /></a>
-</div>
-<br>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DragonB0i&color=7b2cbf&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/DragonB0i?color=9D4EDD&style=for-the-badge&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/DragonB0i?color=3c096c&style=for-the-badge&label=Total+Stars" alt="Stars" />
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,go&theme=dark"/>
+
+<br/><br/>
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux&theme=dark"/>
+
+<br/><br/>
+
+**Backend & Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,postgres,mongodb,mysql,redis&theme=dark"/>
+
+<br/><br/>
+
+**Cloud, DevOps & Tooling**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,git,linux,nginx,postman&theme=dark"/>
+
 </div>
 
 ---
 
-## 👨‍💻 About Me
-
-Engineering secure, scalable, and high-performance systems. My approach combines robust backend architecture with rigorous cybersecurity methodologies to build enterprise-grade applications. I specialize in full-stack development with a strong focus on backend frameworks and automated security tooling.
-
-* **Software Engineering:** Architecting scalable backend solutions utilizing Java and Spring Boot, transitioning seamlessly between relational and NoSQL database infrastructures.
-* **Cybersecurity & Reconnaissance:** Developing specialized local-first vulnerability scanners and utilizing penetration testing tools (Kali Linux, Metasploit, Nmap, Shodan) for advanced network simulation and threat assessment.
-* **AI/ML Integration:** Enhancing security tools with AI-driven consultancy layers and logic parsers.
-* **Product Engineering Mindset:** Focused on end-to-end development, from deep crawling logic and automated reconnaissance to modular, maintainable code architectures.
-* **Open To:** Collaborations on advanced networking projects, competitive programming challenges, and open-source cybersecurity tooling.
-
----
-
-## 🛠 Tech Stack
+## 🜸 AI / ML Expertise
 
 <div align="center">
-
-### Languages
-<img src="https://skillicons.dev/icons?i=java,js,py,html,css" alt="Languages" />
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" alt="Frontend" />
-
-### Backend & Databases
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,mysql,mongodb" alt="Backend & DBs" />
-
-### Cloud, DevOps & Tooling
-<img src="https://skillicons.dev/icons?i=linux,git,github,docker,postman,maven,gradle" alt="DevOps Tooling" />
-
-</div>
-
----
-
-## 🧠 AI / ML Expertise
 
 | Domain | Proficiency | Details |
-| :--- | :--- | :--- |
-| **Security AI Consulting** | Advanced | Designing AI consultancy layers for vulnerability triage and remediation within automated scanning tools. |
-| **Automated Workflows** | Intermediate | Integrating AI-driven content generation workflows for platform-specific media distribution. |
-| **Logic Parsing** | Intermediate | Leveraging machine learning models for reverse-engineered logic detection in source code. |
+|---|---|---|
+| Machine Learning Fundamentals | ⭐⭐⭐⭐ | Supervised/unsupervised learning, model evaluation, scikit-learn |
+| Deep Learning | ⭐⭐⭐ | Neural networks, CNNs, PyTorch/TensorFlow basics |
+| Natural Language Processing | ⭐⭐⭐ | Text preprocessing, embeddings, transformer-based models |
+| LLM Integration | ⭐⭐⭐⭐ | API-based LLM tooling, prompt engineering, RAG pipelines |
+| Data Engineering | ⭐⭐⭐ | ETL pipelines, data cleaning, pandas/NumPy workflows |
+| MLOps Basics | ⭐⭐ | Model deployment, versioning, monitoring fundamentals |
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🜸 Featured Projects
 
 <details>
-<summary><b>🛡️ GuardScanner V3</b></summary>
-<br>
+<summary><b>🔮 Project One — Distributed Task Scheduler</b></summary>
+<br/>
 
-A modular, local-first web vulnerability scanner featuring deep crawling, network reconnaissance, and AI-assisted security analysis. Designed as an enterprise-grade security tool emphasizing reverse-engineered logic and robust local execution.
+A backend-first distributed task scheduling system designed to queue, prioritize, and execute background jobs reliably across multiple worker nodes, with built-in retry logic and failure isolation.
 
-| Stack | Scale | Performance | Security | Impact | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Spring Boot, Java, AI Layer | Modular Engine | Multi-threaded Recon | Defensive Local-First | Automated Vulnerability Triage | [View Project](https://github.com/DragonB0i) |
+| Attribute | Details |
+|---|---|
+| Stack | Node.js, Express, Redis, PostgreSQL, Docker |
+| Scale | Handles 10K+ queued jobs with horizontal worker scaling |
+| Performance | Sub-200ms job dispatch latency under load |
+| Security | JWT-based service auth, input sanitization, rate limiting |
+| Impact | Reduced background job failure rate by 40% via retry/backoff logic |
+| Repository | [View Repository](https://github.com/DragonB0i) |
 
-**Professional Explanation:**
-Engineered the transition of a vulnerability scanner from a basic script to a professional architectural standard. Implemented complex routing for reconnaissance modules (leveraging Nmap and Shodan API methodologies) and integrated an AI consultant layer to interpret detection results. Designed the system for localized execution to ensure operational privacy and rapid deployment in testing environments.
+This project explores core distributed systems concepts — job queuing, idempotency, and fault tolerance — while keeping the system lightweight enough to self-host on minimal infrastructure.
 
 </details>
 
 <details>
-<summary><b>🛒 Order-Mate</b></summary>
-<br>
+<summary><b>🔮 Project Two — Full Stack E-Commerce Platform</b></summary>
+<br/>
 
-A comprehensive full-stack e-commerce platform built to demonstrate advanced data modeling, secure user authentication, and seamless transaction processing.
+An end-to-end e-commerce platform with a secure backend API, role-based access control, and a responsive React frontend, built to demonstrate production-grade full stack architecture.
 
-| Stack | Scale | Performance | Security | Impact | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Spring Boot, MongoDB, React | Full-Stack Platform | Optimized DB Queries | Secure Authentication | Scalable Product Management | [View Project](https://github.com/DragonB0i) |
+| Attribute | Details |
+|---|---|
+| Stack | React, Node.js, Express, MongoDB, Stripe API |
+| Scale | Supports concurrent multi-user checkout sessions |
+| Performance | Optimized queries reducing average page load by 35% |
+| Security | OAuth2 authentication, encrypted payment handling |
+| Impact | Fully functional cart-to-checkout flow with order tracking |
+| Repository | [View Repository](https://github.com/DragonB0i) |
 
-**Professional Explanation:**
-Designed and developed a robust backend architecture using Spring Boot controllers and MongoDB repositories. Handled complex entity relationships for product catalogs and user sessions, including localized data seeding pipelines for high-resolution image assets. Ensured strict separation of concerns between models, controllers, and database access layers.
+Built to practice clean separation of concerns between API services and UI, along with secure handling of payments and sensitive user data.
+
+</details>
+
+<details>
+<summary><b>🔮 Project Three — AI-Powered Content Assistant</b></summary>
+<br/>
+
+An LLM-integrated assistant that helps generate, summarize, and refine written content through a RAG-based pipeline connected to a custom knowledge base.
+
+| Attribute | Details |
+|---|---|
+| Stack | Python, Flask, LangChain, Vector DB, React |
+| Scale | Processes multi-document context windows efficiently |
+| Performance | Optimized retrieval reducing response latency significantly |
+| Security | Sanitized inputs, API key management, rate-limited endpoints |
+| Impact | Streamlined content workflows through automated summarization |
+| Repository | [View Repository](https://github.com/DragonB0i) |
+
+This project combines backend service design with applied AI, focusing on retrieval-augmented generation to ground LLM responses in accurate, relevant context.
 
 </details>
 
 ---
 
-## 💼 Experience
+## 🜸 Experience
+
+<table>
+<tr>
+<td>
 
 ### Cybersecurity Intern — Supraja Technologies
-**Date Range:** May 2025 - June 2025
+**May 2025 – June 2025**
 
-**Professional Description:**
-Immersed in an intensive environment focusing on enterprise cybersecurity methodologies, network defense strategies, and vulnerability assessment. Acquired practical, hands-on experience in identifying and mitigating modern threat vectors.
+Gained hands-on, foundational experience in cybersecurity practices and principles, working alongside engineering teams to understand real-world security workflows.
 
-**Scope of Work:**
-* Executed fundamental penetration testing and reconnaissance protocols.
-* Analyzed network traffic and routing architectures (NAT, DHCP, Subnetting).
-* Deployed security tooling and analyzed sandbox server vulnerabilities.
+**Scope of Work**
+- Learned core cybersecurity fundamentals including threat identification and risk assessment
+- Gained hands-on exposure to security tools and vulnerability analysis practices
+- Collaborated with team members to understand secure development practices
+- Studied common attack vectors and mitigation strategies
 
-**Skills:** `Cybersecurity` `Network Analysis` `Kali Linux` `Vulnerability Assessment`
+**Skills Applied**
+<br/>
+![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-1e1b2e?style=flat-square&color=7C3AED)
+![Networking](https://img.shields.io/badge/-Networking-1e1b2e?style=flat-square&color=6366F1)
+![Risk Assessment](https://img.shields.io/badge/-Risk%20Assessment-1e1b2e?style=flat-square&color=4F46E5)
+![Vulnerability Analysis](https://img.shields.io/badge/-Vulnerability%20Analysis-1e1b2e?style=flat-square&color=8B5CF6)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏆 Achievements
+## 🜸 Achievements
 
 <div align="center">
 
 | Recognition | Details |
-| :--- | :--- |
-| **Automata Theory Excellence** | Advanced comprehension of Deterministic Finite Automata (DFA) state optimization and Turing machine logic. |
-| **Competitive Programming** | Consistent active problem-solving and algorithmic optimization on major competitive platforms. |
-| **Advanced Networking** | Proficient configuration of complex subnetting and routing protocols using Cisco Packet Tracer simulations. |
+|---|---|
+| Cybersecurity Internship | Completed hands-on internship at Supraja Technologies |
+| Open Source Contributions | Active contributor on personal and collaborative GitHub repositories |
+| Continuous Learner | Ongoing self-driven study in AI/ML and backend system design |
 
 </div>
 
 ---
 
-## 📜 Certifications
+## 🜸 Certifications
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity_Fundamentals-Certified-7b2cbf?style=for-the-badge&logo=security&logoColor=white" alt="Cybersecurity Cert" />
-  <img src="https://img.shields.io/badge/Java_Spring_Boot-Certified-9D4EDD?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot Cert" />
-  <img src="https://img.shields.io/badge/Network_Engineering-Certified-3c096c?style=for-the-badge&logo=cisco&logoColor=white" alt="Network Cert" />
+
+![Cybersecurity Fundamentals](https://img.shields.io/badge/Cybersecurity%20Fundamentals-7C3AED?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![Backend Development](https://img.shields.io/badge/Backend%20Development-6366F1?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-4F46E5?style=for-the-badge&logo=tensorflow&logoColor=white)
+
 </div>
 
 ---
 
-## 💻 Coding Profiles
+## 🜸 Coding Profiles
 
 <div align="center">
-  <a href="https://leetcode.com/u/Yagneswar_121/">
-    <img src="https://img.shields.io/badge/-LeetCode-10002b?style=for-the-badge&logo=leetcode&logoColor=9D4EDD&border=7b2cbf" alt="LeetCode" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/bhavanamyagnesw1">
-    <img src="https://img.shields.io/badge/-HackerRank-10002b?style=for-the-badge&logo=hackerrank&logoColor=9D4EDD&border=7b2cbf" alt="HackerRank" />
-  </a>
+
+<a href="https://leetcode.com/u/Yagneswar_121/">
+<img src="https://img.shields.io/badge/LeetCode-312E81?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+<a href="https://www.hackerrank.com/profile/bhavanamyagnesw1">
+<img src="https://img.shields.io/badge/HackerRank-1E1B4B?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 🜸 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DragonB0i&show_icons=true&bg_color=0D1117&title_color=9D4EDD&text_color=A9B1D6&icon_color=7B2CBF&border_color=3C096C&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DragonB0i&background=0D1117&ring=7B2CBF&fire=9D4EDD&currStreakNum=A9B1D6&sideNums=A9B1D6&currStreakLabel=9D4EDD&sideLabels=9D4EDD&dates=7B2CBF&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DragonB0i&layout=compact&bg_color=0D1117&title_color=9D4EDD&text_color=A9B1D6&hide_border=true" alt="Top Languages" width="60%" />
-</div>
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=DragonB0i&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=DragonB0i&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" width="48%"/>
 
-## 🏆 GitHub Trophies
+<br/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DragonB0i&theme=tokyonight&no-bg=true&no-frame=true&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DragonB0i&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" width="48%"/>
+
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 🜸 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DragonB0i&bg_color=0D1117&color=9D4EDD&line=7B2CBF&point=3C096C&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=DragonB0i&theme=darkhub&no-frame=true&no-bg=false&margin-w=8&row=1&column=7"/>
+
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🜸 Contribution Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DragonB0i/DragonB0i/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DragonB0i&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD"/>
+
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 🜸 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/DragonB0i/DragonB0i/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+## 🜸 Current Focus
 
 ```yaml
-Current_Focus:
-  Learning: 
-    - Advanced Penetration Testing
-    - Microservices Architecture
-    - Formal Language Computability
-  Building: 
-    - GuardScanner V3 AI Consulting Layer
-    - Enterprise E-commerce APIs
-  Exploring: 
-    - Automated Deep Crawling Optimization
-    - Local-first LLM Execution
-  Open_To: 
-    - Backend Engineering Roles
-    - Cybersecurity Research Collaboration
+Learning:
+  - Distributed Systems & System Design
+  - Advanced AI/ML Engineering
+  - Cloud-Native Architecture (AWS, Kubernetes)
+
+Building:
+  - Scalable backend services & APIs
+  - AI-integrated full stack applications
+  - Open source developer tools
+
+Exploring:
+  - LLM-powered backend automation
+  - Cybersecurity best practices
+  - High-performance database design
+
+Open To:
+  - Software Engineering Roles (Backend / Full Stack)
+  - AI/ML Engineering Opportunities
+  - Open Source Collaboration
+```
+
+---
+
+## 🜸 Connect With Me
+
+<div align="center">
+
+<a href="mailto:bhavanamyagneswar@gmail.com"><img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/yagneswar-b-278944295/"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/DragonB0i"><img src="https://img.shields.io/badge/GitHub-4F46E5?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://dragonb0i.github.io/port-str/"><img src="https://img.shields.io/badge/Portfolio-312E81?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Engineering is the art of turning constraints into solutions."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+</div>
