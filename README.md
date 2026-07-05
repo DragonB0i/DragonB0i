@@ -289,7 +289,7 @@ Learned cybersecurity fundamentals while gaining practical exposure to industry-
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=DragonB0i&theme=algolia&no-frame=true&row=2&column=4"/>
+<img src="trophy.svg" alt="GitHub Trophies"/>
 
 </div>
 
