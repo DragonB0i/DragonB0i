@@ -195,9 +195,6 @@ Implements multiple password recovery techniques including dictionary attacks, r
 
 </details>
 
-<details>
-<summary><b>Career Copilot AI</b></summary>
-</details>
 # Experience
 
 ## Software Engineering Intern
