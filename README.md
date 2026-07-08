@@ -264,19 +264,29 @@ Learned cybersecurity fundamentals while gaining practical exposure to industry-
 
 ---
 
-# GitHub Analytics
+# 🐉 DragonStats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=DragonB0i&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://dragonstats.onrender.com/badge/profile"/>
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=DragonB0i&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://dragonstats.onrender.com/badge/activity"/>
 
 </div>
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DragonB0i&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://dragonstats.onrender.com/badge/languages"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/DragonB0i/DragonStats/output/snake.svg"/>
 
 </div>
 
