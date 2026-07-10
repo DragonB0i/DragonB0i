@@ -280,6 +280,12 @@ Learned cybersecurity fundamentals while gaining practical exposure to industry-
 
 </div>
 
+<div align="center">
+
+<img height="180" src="https://streak-stats.demolab.com?user=DragonB0i&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+</div>
+
 ---
 
 ## 🐍 Contribution Snake
@@ -306,7 +312,7 @@ Learned cybersecurity fundamentals while gaining practical exposure to industry-
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DragonB0i&theme=react-dark&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=DragonB0i&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
