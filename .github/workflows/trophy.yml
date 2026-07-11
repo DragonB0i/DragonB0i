@@ -26,7 +26,7 @@ jobs:
         with:
           username: DragonB0i
           output_path: trophy.svg
-          theme: algolia
+          theme: discord
           no-frame: true
           row: 2
           column: 4
