@@ -268,15 +268,15 @@ Learned cybersecurity fundamentals while gaining practical exposure to industry-
 
 <div align="center">
 
-<img height="180" src="https://dragonstats.onrender.com/badge/profile"/>
+<img height="180" src="https://dragonstats.onrender.com/badge/profile?username=DragonB0i"/>
 
-<img height="180" src="https://dragonstats.onrender.com/badge/activity"/>
+<img height="180" src="https://dragonstats.onrender.com/badge/activity?username=DragonB0i"/>
 
 </div>
 
 <div align="center">
 
-<img height="180" src="https://dragonstats.onrender.com/badge/languages"/>
+<img height="180" src="https://dragonstats.onrender.com/badge/languages?username=DragonB0i"/>
 
 </div>
 
