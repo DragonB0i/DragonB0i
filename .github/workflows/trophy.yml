@@ -32,7 +32,7 @@ jobs:
           no-frame: true
           max-rows: 2
           max-cols: 4
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_PAT }}
 
       - name: Commit Trophy
         run: |
