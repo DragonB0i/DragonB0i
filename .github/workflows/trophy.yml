@@ -12,6 +12,8 @@ on:
 
 permissions:
   contents: write
+  issues: read
+  pull-requests: read
 
 jobs:
   generate:
@@ -25,11 +27,11 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: DragonB0i
-          output_path: trophy.svg
+          file: trophy.svg
           theme: discord
           no-frame: true
-          row: 2
-          column: 4
+          max-rows: 2
+          max-cols: 4
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit Trophy
