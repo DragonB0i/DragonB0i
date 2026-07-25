@@ -74,7 +74,7 @@ Rather than simply developing applications, I enjoy building products that empha
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp,html,css"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,html"/>
 
 </p>
 
@@ -82,7 +82,7 @@ Rather than simply developing applications, I enjoy building products that empha
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite"/>
+<img src="https://skillicons.dev/icons?i=react,vite"/>
 
 </p>
 
@@ -90,7 +90,7 @@ Rather than simply developing applications, I enjoy building products that empha
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,mysql,mongodb,postgres,firebase"/>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,mysql,mongodb"/>
 
 </p>
 
@@ -98,7 +98,7 @@ Rather than simply developing applications, I enjoy building products that empha
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode,idea,figma"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,idea"/>
 
 </p>
 
